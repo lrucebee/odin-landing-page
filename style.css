@@ -28,7 +28,7 @@ img {
 .container {
   max-width: 1100px;
   margin: 0 auto;
-  padding: 0 1.5rem;
+  padding: 0 2rem;
 }
 
 .btn {
@@ -174,4 +174,33 @@ img {
   font-size: 1.5rem;
   font-weight: 700;
   text-align: right;
+}
+
+.call-to-action {
+  padding: 8rem 2rem;
+}
+
+.cta {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  border-radius: 1rem;
+  color: #fff;
+  background-color: #3882f6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 6rem;
+}
+
+.cta-title {
+  font-size: 1.75rem;
+  margin-bottom: .5rem;
+}
+
+.footer {
+  background-color: #1f2937;
+  color: #fff;
+  text-align: center;
+  padding: 3rem;
 }
